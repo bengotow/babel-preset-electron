@@ -29,7 +29,7 @@ module.exports = {
     require("babel-plugin-transform-es2015-destructuring"),
 
     // Stage 3
-    require("babel-plugin-transform-async-to-generator"),
+    // require("babel-plugin-transform-async-to-generator"),
     require("babel-plugin-transform-async-generator-functions"),
     require("babel-plugin-transform-exponentiation-operator"),
 
